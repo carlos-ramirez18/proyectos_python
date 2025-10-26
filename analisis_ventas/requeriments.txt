@@ -1,0 +1,3 @@
+pandas>=1.5
+matplotlib>=3.0    # para próximos pasos (gráficos)
+reportlab>=3.6     # para generación de PDF más adelante (opcional)
