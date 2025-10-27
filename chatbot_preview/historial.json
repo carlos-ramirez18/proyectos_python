@@ -1,0 +1,78 @@
+[
+  {
+    "usuario": "opciones",
+    "bot": "Perdón, no tengo información sobre eso. ¿Podrías reformular tu pregunta?"
+  },
+  {
+    "usuario": "horarios",
+    "bot": "Perdón, no tengo información sobre eso. ¿Podrías reformular tu pregunta?"
+  },
+  {
+    "usuario": "turnos",
+    "bot": "Perdón, no tengo información sobre eso. ¿Podrías reformular tu pregunta?"
+  },
+  {
+    "usuario": "emergencias",
+    "bot": "Perdón, no tengo información sobre eso. ¿Podrías reformular tu pregunta?"
+  },
+  {
+    "usuario": "especialidades",
+    "bot": "Perdón, no tengo información sobre eso. ¿Podrías reformular tu pregunta?"
+  },
+  {
+    "usuario": "obras sociales",
+    "bot": "Perdón, no tengo información sobre eso. ¿Podrías reformular tu pregunta?"
+  },
+  {
+    "usuario": "ubicacion",
+    "bot": "Nos encontramos en Av. Salud 1234, Ciudad Central."
+  },
+  {
+    "usuario": "horarios",
+    "bot": "Perdón, no tengo información sobre eso. ¿Podrías reformular tu pregunta?"
+  },
+  {
+    "usuario": "horarios",
+    "bot": "Perdón, no tengo información sobre eso. ¿Podrías reformular tu pregunta?"
+  },
+  {
+    "usuario": "turnos",
+    "bot": "Perdón, no tengo información sobre eso. ¿Podrías reformular tu pregunta?"
+  },
+  {
+    "usuario": "emergencias",
+    "bot": "Perdón, no tengo información sobre eso. ¿Podrías reformular tu pregunta?"
+  },
+  {
+    "usuario": "especialidades",
+    "bot": "Perdón, no tengo información sobre eso. ¿Podrías reformular tu pregunta?"
+  },
+  {
+    "usuario": "necesito saber el horario de atención",
+    "bot": "Nuestro horario de atención es de lunes a viernes de 8:00 a 20:00."
+  },
+  {
+    "usuario": "quiero sacar un turno",
+    "bot": "Para sacar un turno, podés llamar al 1234-5678 o reservar online."
+  },
+  {
+    "usuario": "tengo una emergencia",
+    "bot": "Si es una emergencia, dirigite directamente a la guardia o llamá al 911."
+  },
+  {
+    "usuario": "qué especialidades médicas tienen",
+    "bot": "Contamos con pediatría, cardiología, dermatología, ginecología y más."
+  },
+  {
+    "usuario": "dónde están ubicados",
+    "bot": "Disculpá, no entendí tu consulta. ¿Podés reformularla?"
+  },
+  {
+    "usuario": "aceptan obra social o prepaga",
+    "bot": "Aceptamos todas las obras sociales y prepagas más importantes."
+  },
+  {
+    "usuario": "tengo una emergencia",
+    "bot": "Si es una emergencia, dirigite directamente a la guardia o llamá al 911."
+  }
+]
